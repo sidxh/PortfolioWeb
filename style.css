@@ -1,7 +1,7 @@
 
 body{
    
-    background: linear-gradient( to top, midnightblue, black);
+    background:radial-gradient(circle at center,black 0, rgb(14, 14, 91),midnightblue,black 100%)
  }
  
 .kl{
