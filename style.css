@@ -106,7 +106,7 @@ nav ul button:hover{
     padding: 0%;
     font-size: 20px;
     font-weight: 70px;
-   left: 30px;
+   left: 20px;
     
     color:#64ffda;
    /* font-sans: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
@@ -130,7 +130,7 @@ nav ul button:hover{
     padding: 0%;margin: 0%;
     text-decoration: solid;
     color: #ccd6f6;
-   left: 30px;
+   left: 20px;
     font-size: 70px;
     font-weight: 1000;
     font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;;
