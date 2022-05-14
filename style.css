@@ -195,36 +195,43 @@ div h1{
   
  .insta{
      position: fixed;
-     left: 5px;
-     top: 100px;
+     left: 0px;
+     top: 300px;
+     
+     
  }
- .twitter{
+ .twitter {
     position: fixed;
-    left: 5px;
-    top: 155px;
+    left: 0px;
+    top: 350px;
+    
+    
 }
+
 .linkedin{
     position: fixed;
-    left: 5px;
-    top: 210px;
+    left: 0;
+    top: 400px;
 }
  .insta:hover{
-     position: fixed;
-     left: 5px;
-     top: 100px;
+     
      border:1px solid #64ffda;
  }
  .twitter:hover{
-    position: fixed;
-    left: 5px;
-    top: 155px;
      border:1px solid #64ffda;
 }
 .linkedin:hover{
-    position: fixed;
-    left: 5px;
-    top: 210px;
    border:1px solid #64ffda;
 }
-
+.twitter img{
+    width:20px;
+    height: 20px;
+}
+.insta img{
+    width:20px;
+    height: 20px;
+}.linkedin img{
+    width:20px;
+    height: 20px;
+}
 
