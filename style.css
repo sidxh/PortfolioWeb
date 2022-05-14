@@ -28,6 +28,8 @@ body{
 }
 
 nav{
+   padding-top: 4px;
+   text-align: right;
     margin: 0;
     padding: 0;
     display: flex;
