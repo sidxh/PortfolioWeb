@@ -187,3 +187,23 @@ div h1{
     text-decoration: underline;
 }
   
+ .insta{
+     position: fixed;
+     left: 5px;
+     top: 100px;
+ }
+ .twitter{
+    position: fixed;
+    left: 5px;
+    top: 155px;
+}
+.facebook{
+    position: fixed;
+    left: 5px;
+    top: 210px;
+}
+.gmail{
+    position: fixed;
+    left: 5px;
+    top: 265px;
+}
