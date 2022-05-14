@@ -1,8 +1,8 @@
 
 body{
    
-    background:radial-gradient(circle at center,black 0,#112240,#0a192f,midnightblue,black 100%)
-    
+   /* background:radial-gradient(circle at center,black 0,#112240,#0a192f,midnightblue,black 100%)*/
+    background-color: #0a192f;
  }
 
 #main{
@@ -91,7 +91,7 @@ nav ul button:hover{
     
     text-align: left;
     padding: 0;
-    margin-left: 30px;
+    margin-left: 5px;
     color: white;
     width: 80%;
     
