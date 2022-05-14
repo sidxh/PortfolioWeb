@@ -190,7 +190,7 @@ div h1{
 .ho p{
     text-align: center;
    align-items: flex-start;
-   width: 45%;
+   width: 60%;
    
 } 
 .ho p:hover{
@@ -201,11 +201,13 @@ div h1{
     
 }
 .ho img{
-   width: 10%;
+   width: 30%;
    align-items: flex-end;
 }
 .ho h1{
     text-decoration: underline;
+    align-items: center;
+    width: 90%;
 }
   
  .insta{
