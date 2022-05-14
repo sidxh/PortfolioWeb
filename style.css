@@ -141,7 +141,7 @@ nav ul button:hover{
     font-weight: 1000;
     font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;;
 }
-/* .jl button {
+.jl button {
     background-color: #112240; /* Green */
 
     border: 2px solid#64ffda ;
@@ -157,34 +157,7 @@ nav ul button:hover{
       color: aliceblue;
       font-weight: 900;
       background-color: #233554;
-  } */
-
-.j1 button {
-    padding: 1.3em 3em;
-    font-size: 12px;
-    text-transform: uppercase;
-    letter-spacing: 2.5px;
-    font-weight: 500;
-    color: #000;
-    background-color: #fff;
-    border: none;
-    border-radius: 45px;
-    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease 0s;
-    cursor: pointer;
-    outline: none;
-  }
-  
-  .j1 button:hover {
-    background-color: #23c483;
-    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
-    color: #fff;
-    transform: translateY(-7px);
-  }
-  
-  .j1 button:active {
-    transform: translateY(-1px);
-  }
+  } 
 
   .second{
       padding: 30px;
