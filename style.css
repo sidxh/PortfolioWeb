@@ -208,4 +208,23 @@ div h1{
     left: 5px;
     top: 210px;
 }
+ .insta:hover{
+     position: fixed;
+     left: 5px;
+     top: 100px;
+     border:1px solid #64ffda;
+ }
+ .twitter:hover{
+    position: fixed;
+    left: 5px;
+    top: 155px;
+     border:1px solid #64ffda;
+}
+.linkedin:hover{
+    position: fixed;
+    left: 5px;
+    top: 210px;
+   border:1px solid #64ffda;
+}
+
 
