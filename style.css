@@ -1,7 +1,8 @@
 
 body{
    
-   background:radial-gradient(circle at center,black 0, rgb(14, 14, 91),rgb(0, 119, 255),midnightblue,black 100%)
+    background:radial-gradient(circle at center,black 0,#112240,#0a192f,midnightblue,black 100%)
+    
  }
  
 .kl{
@@ -13,9 +14,9 @@ body{
     margin: auto;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
-    width: 99%; /* Full width */
+     width: 100%;
     height: 80px;
-    background-color:black;
+    border-radius: 10px;
   
     
 
@@ -54,12 +55,13 @@ a{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }*/
 nav ul button{
-    background-color: #4CAF50;
+    background-color: #0a192f;
     color: white;
+    border: 1px solid #64ffda;
     text-align: center;
     padding: 0%;
     margin-left: 50px;
-    height: 50px;
+    height: 30px;
     border-radius: 10px;
 
 
@@ -75,18 +77,19 @@ nav ul button:hover{
 .jl{
     display: flex;
     flex-direction:row;
-    margin-top: 170px;
+    margin-top: 100px;
+    margin-bottom: 100px;
     
 
     
 }
 .first{
     
-    text-align: center;
+    text-align: left;
     padding: 0;
-    margin: 0;
+    margin-left: 30px;
     color: white;
-    width: 50%;
+    width: 80%;
     
     padding-top: 50px;
     
@@ -97,33 +100,51 @@ nav ul button:hover{
 }
 .ab{
     padding: 0%;
-    font-weight: 10;
-    font-style: italic;
+    font-size: 20px;
+    font-weight: 70px;
+    
+    color:#64ffda;
+   /* font-sans: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+    font-mono: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;*/
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
 }
+.ad{
+    padding: 0%;
+    font-size: 20px;
+    font-weight: 70px;
+    
+    color:#a8b2d1;
+   /* font-sans: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+    font-mono: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;*/
+    font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
+}
+
+
 
 .ac{
     padding: 0%;margin: 0%;
     text-decoration: solid;
-    font-size: xx-large;
-    font-weight: bolder;
-    font-family: 'Times New Roman', Times, serif;
+    color: #ccd6f6;
+    font-size: 70px;
+    font-weight: 1000;
+    font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;;
 }
 .jl button {
-    background-color: darkgreen; /* Green */
-    border: none;
+    background-color: #112240; /* Green */
+
+    border: 2px solid#64ffda ;
     color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    border-radius: 20px;
     margin-bottom: 20px;
   }
  .jl button:hover{
       color: aliceblue;
       font-weight: 900;
-      background-color: #4CAF50;
+      background-color: #233554;
   }
   .second{
       padding: 30px;
@@ -132,8 +153,9 @@ nav ul button:hover{
       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
       }
 div img{
-    width: 700px;
+    width: 300px;
     height:300px;
+    border-radius: 40px;
 }
   .bp{
       font-weight: bolder;
