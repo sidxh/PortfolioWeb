@@ -191,7 +191,9 @@ div h1{
     text-align: center;
    align-items: flex-start;
    width: 70%;
-   
+   border:1px solid #2bc8e2;
+   background-color: black;
+  
 } 
 .ho p:hover{
     transition-delay:1s;
