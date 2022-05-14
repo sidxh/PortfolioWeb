@@ -177,6 +177,9 @@ div img{
       margin: 20px;padding: 20px;
       width: 70%;
       margin-left: 140px;
+      letter-spacing: 1px;
+      line-height: 1.4;
+      word-spacing: 5px;
 
       
 }
