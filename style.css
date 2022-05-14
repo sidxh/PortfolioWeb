@@ -4,6 +4,10 @@ body{
     background:radial-gradient(circle at center,black 0,#112240,#0a192f,midnightblue,black 100%)
     
  }
+
+#main{
+   padding-left: 20vw;
+}
  
 .kl{
     
