@@ -2,11 +2,12 @@
 body{
    
    /* background:radial-gradient(circle at center,black 0,#112240,#0a192f,midnightblue,black 100%)*/
-    background-color: #0a192f;
+    
+   background:radial-gradient(circle at center,black 0,#112240,#0a192f,black 100%)
  }
 
 #main{
-   padding-left: 14vw;
+   padding-left: 8vw;
 }
  
 .kl{
