@@ -1,9 +1,9 @@
 
+
 body{
    
-   /* background:radial-gradient(circle at center,black 0,#112240,#0a192f,midnightblue,black 100%)*/
+    background:radial-gradient(circle at center,black 0,#112240,#0a192f,black 100%)
     
-   background:radial-gradient(circle at center,black 0,#112240,#0a192f,black 100%)
  }
 
 #main{
@@ -13,23 +13,23 @@ body{
 .kl{
     
     
-    
+    background-color: #0a192f;
     overflow: hidden;
+
     padding: 0;
     margin: auto;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
      width: 100%;
-    height: 80px;
+    height: 60px;
     border-radius: 10px;
+    position: static;
   
     
 
 }
 
 nav{
-   padding-top: 4px;
-   text-align: right;
     margin: 0;
     padding: 0;
     display: flex;
@@ -85,7 +85,7 @@ nav ul button:hover{
     display: flex;
     flex-direction:row;
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     
 
     
@@ -94,7 +94,7 @@ nav ul button:hover{
     
     text-align: left;
     padding: 0;
-    margin-left: 5px;
+    margin-left: 30px;
     color: white;
     width: 80%;
     
@@ -154,8 +154,7 @@ nav ul button:hover{
       color: aliceblue;
       font-weight: 900;
       background-color: #233554;
-  } 
-
+  }
   .second{
       padding: 30px;
       margin: 0;
@@ -171,7 +170,7 @@ div img{
       font-weight: bolder;
       font-size: x-large;
   }
- .ho{
+  .ho{
       margin: 20px;padding: 20px;
       width: 90%;
       margin-top: 50vh;
@@ -285,6 +284,8 @@ div h1{
     width:20px;
     height: 20px;
 }
+
+
 
 #formy{
        align-content: center;
