@@ -170,19 +170,17 @@ div img{
       font-weight: bolder;
       font-size: x-large;
   }
-  .ho{
+   .ho{
       margin: 20px;padding: 20px;
       width: 90%;
       margin-top: 50vh;
       margin-left: 20vh;
       border: 2px solid#64ffda;
-      background-image: url("https://banner2.cleanpng.com/20180605/jba/kisspng-logo-triangle-brand-pink-m-all-about-me-5b171067810f69.3861296015282381835286.jpg");
-      background-position: center; /* Center the image */
-      background-repeat: no-repeat; /* Do not repeat the image */
-      background-image: radial-gradient(white,  black);
+     /* background-image: url("https://banner2.cleanpng.com/20180605/jba/kisspng-logo-triangle-brand-pink-m-all-about-me-5b171067810f69.3861296015282381835286.jpg");*/
+       /* Do not repeat the image */
+      background: radial-gradient(#112240,  black);
       background-size: 1000px 1200px;
-      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-      filter: grayscale(100%);
+      
       border-radius: 20px;
       
       }
@@ -192,8 +190,7 @@ div img{
         background-position: center; /* Center the image */
         background-repeat: no-repeat; /* Do not repeat the image */
         background-size: 1000px 1200px;
-        -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
-        filter: grayscale(0%) brightness(100%);
+        
 
       }
       .third{
@@ -220,7 +217,7 @@ div h1{
     font-weight: bolder;
 }
 .ho p{
-    color: #0a192f;
+    color: white;
     font-weight: bolder;
     text-align: center;
     font-size: x-large;
