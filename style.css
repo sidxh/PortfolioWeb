@@ -20,7 +20,6 @@ body{
 
     padding: 0;
    padding-top: 10px;
-   padding-left: 50vw;
     margin: auto;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
@@ -69,7 +68,7 @@ button:active {
   }
 
 #hlist{
-      padding-left: 30vw;
+      float: right;
   }
 
   ul#hlist li{
