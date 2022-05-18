@@ -346,4 +346,11 @@ div h1{
   font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
 }
 
+.vertical {
+  border-left: 4px solid #64ffda;
+  height: 700px;
+  position:absolute;
+  top: 40vh;
+  right: 8px;
+  }
 
