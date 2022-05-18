@@ -19,7 +19,7 @@ body{
     overflow: hidden;
 
     padding: 0;
-   padding-top: 10px;
+/*    padding-top: 10px; */
     margin: auto;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
@@ -351,6 +351,6 @@ div h1{
   height: 700px;
   position:absolute;
   top: 30vh;
-  right: 28px;
+  right: 30px;
   }
 
