@@ -230,23 +230,14 @@ div img{
       margin-top: 50vh;
       margin-left: 20vh;
       border: 2px solid#64ffda;
-     /* background-image: url("https://banner2.cleanpng.com/20180605/jba/kisspng-logo-triangle-brand-pink-m-all-about-me-5b171067810f69.3861296015282381835286.jpg");*/
-       /* Do not repeat the image */
-      background: radial-gradient(#112240,  black);
-      background-size: 1000px 1200px;
+     
+      
       
       border-radius: 20px;
       
       }
       
-  .ho:hover{
-        background-image: url("https://banner2.cleanpng.com/20180605/jba/kisspng-logo-triangle-brand-pink-m-all-about-me-5b171067810f69.3861296015282381835286.jpg");
-        background-position: center; /* Center the image */
-        background-repeat: no-repeat; /* Do not repeat the image */
-        background-size: 1000px 1200px;
-        
-
-      }
+ 
       .third{
           margin-left: 300px;
           -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
