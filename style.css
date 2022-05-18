@@ -13,7 +13,8 @@ body{
 .kl{
     
     
-    background-color: #0a192f;
+/*     background-color: #0a192f; */
+   background-color: black;
     overflow: hidden;
 
     padding: 0;
@@ -101,7 +102,7 @@ a{
     font-weight: 400;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }*/
-nav ul button{
+/* nav ul button{
     background-color: #0a192f;
     color: white;
     border: 1px solid #64ffda;
@@ -117,7 +118,7 @@ nav ul button:hover{
       color: black;
       font-weight: 900;
       background-color: midnightblue;
-      box-shadow: 5px 5px white;
+      box-shadow: 5px 5px white; */
       
 
 }
