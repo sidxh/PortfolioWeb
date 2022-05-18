@@ -339,8 +339,11 @@ div h1{
 .maily{
   position: fixed;
   right: 20px;
-  top: 350px;
-  height: 1ooopx;
-  width: 20px;
+  top: 50vh;
+  color: #64ffda;
+  writing-mode: vertical-rl;
+  text-decoration: none;
+  font-family: "Calibre","Inter","San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif;
 }
+
 
