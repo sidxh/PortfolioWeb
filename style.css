@@ -9,6 +9,11 @@ body{
 #main{
    padding-left: 8vw;
 }
+
+.tab{
+   align-items: right;
+   align-content: right;
+}
  
 .kl{
     
