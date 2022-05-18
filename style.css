@@ -100,11 +100,7 @@ button:active {
     height: 50px;
 }
 
-.tline{
-    font-family: 'Gochi Hand', cursive;
-    font-size: 20px;
-    color: #a8b2d1;
-}
+
 
 /* nav ul  {
     display: flex;
@@ -142,10 +138,7 @@ nav ul button:hover{
 
 }
 
-.intro{
-   position: fixed;
-   left: 0px;
-}
+
 
 
 .jl{
