@@ -80,6 +80,7 @@ button:active {
 
 #nav{
     color: aquamarine;
+   position: fixed;
     /* display: inline; */
 }
 
@@ -301,7 +302,7 @@ div h1{
     left: 0;
     top: 400px;
 }
- .insta:hover{
+/*  .insta:hover{
      
      border:1px solid #64ffda;
  }
@@ -310,7 +311,7 @@ div h1{
 }
 .linkedin:hover{
    border:1px solid #64ffda;
-}
+} */
 .twitter img{
     width:20px;
     height: 20px;
