@@ -234,7 +234,8 @@ div img{
       font-size: x-large;
   }
    .ho{
-      margin: 20px;padding: 20px;
+      margin: 20px;
+/*       padding: 20px; */
       width: 90%;
       margin-top: 50vh;
       margin-left: 20vh;
@@ -276,12 +277,7 @@ div h1{
     text-align: center;
     font-size: x-large;
     word-spacing: 5px;
-    
-    
-    
-
-
-
+   line-height: 1.5;
 
 
 } 
@@ -292,7 +288,7 @@ div h1{
 }
 .ho h1{
     text-decoration: #ccd6f6;
-    padding: 30px;
+    
 }
   
  .insta{
