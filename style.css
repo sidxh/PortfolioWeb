@@ -452,15 +452,23 @@ div h1{
     box-shadow: -10px 0 50px 10px #666;
   }
 .tab {
-    animation: fadein 2s steps(1, end);
+    animation: fadein 1s steps(1, end);
   }
   
   @keyframes fadein {
       from { opacity: 0; }
       to   { opacity: 1; }
   }
-  .first {
-    animation: fadein 3s steps(1, end);
+  .first  {
+    animation: fadein 1.5s steps(1, end);
+  }
+  
+  @keyframes fadein {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+  }
+.first .ad{
+ animation: fadein 2.25s steps(1, end);
   }
   
   @keyframes fadein {
@@ -468,7 +476,30 @@ div h1{
       to   { opacity: 1; }
   }
 
-
+.first .ab{
+ animation: fadein 1.75s steps(1, end);
+  }
+  
+  @keyframes fadein {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+  }
+.first .ac{
+ animation: fadein 2s steps(1, end);
+  }
+  
+  @keyframes fadein {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+  }
+.first button{
+ animation: fadein 2.5s steps(1, end);
+  }
+  
+  @keyframes fadein {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+  }
 
 
 
