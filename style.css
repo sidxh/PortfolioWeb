@@ -73,7 +73,7 @@ button:active {
 
   ul#hlist li{
     display: inline;
-    padding: 0px;
+    padding: 10px;
     /* border: 4px;
     border-color: beige; */
 }
