@@ -454,6 +454,7 @@ div h1{
   }
 .tab {
     animation: fadein 1s steps(1, end);
+    z-index:1;
   }
   
   @keyframes fadein {
@@ -461,7 +462,7 @@ div h1{
       to   { opacity: 1; }
   }
   .first  {
-    animation: fadein 1.5s steps(1, end);
+    animation: fadein 1.25s steps(1, end);
   }
   
   @keyframes fadein {
@@ -469,7 +470,7 @@ div h1{
       to   { opacity: 1; }
   }
 .first .ad{
- animation: fadein 2.25s steps(1, end);
+ animation: fadein 2s steps(1, end);
   }
   
   @keyframes fadein {
@@ -478,7 +479,7 @@ div h1{
   }
 
 .first .ab{
- animation: fadein 1.75s steps(1, end);
+ animation: fadein 1.5s steps(1, end);
   }
   
   @keyframes fadein {
@@ -486,7 +487,7 @@ div h1{
       to   { opacity: 1; }
   }
 .first .ac{
- animation: fadein 2s steps(1, end);
+ animation: fadein 1.75s steps(1, end);
   }
   
   @keyframes fadein {
@@ -505,6 +506,7 @@ div h1{
 .taby{
    padding = 80px;
 }
+
 
 
 
