@@ -88,7 +88,7 @@ button:active {
 
 
 .img1{
-   padding: 0.5em 1em;
+   padding: 0.25em 0.25m;
     display: flex;
     align-items: center;
     position: fixed;
@@ -97,7 +97,7 @@ button:active {
 
 }
 .img1 img{
-   padding: 1em 2em;
+   
     width: 50px;
     height: 50px;
 }
