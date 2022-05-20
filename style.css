@@ -282,6 +282,7 @@ div h1{
    padding-top: 0px;
    padding-bottom: 0px;
    color: #ccd6f6;
+   margin-bottom: 5px;
 }
    
 
@@ -292,6 +293,7 @@ div h1{
     font-size: x-large;
     word-spacing: 5px;
    line-height: 1.5;
+   margin: 2px;
 
 
 } 
