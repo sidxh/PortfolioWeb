@@ -81,7 +81,7 @@ button:active {
 
 #nav{
     color: aquamarine;
-   position: sticky;
+   position: fixed;
    right: 0px;
     /* display: inline; */
 }
