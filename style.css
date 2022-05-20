@@ -75,6 +75,7 @@ button:active {
   ul#hlist li{
     display: inline;
     padding: 40px;
+     margin: 2px;
     /* border: 4px;
     border-color: beige; */
 }
